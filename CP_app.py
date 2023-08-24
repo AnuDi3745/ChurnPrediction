@@ -15,7 +15,7 @@ def decompress_pickle(file):
     data = pickle.load(data)
     return data
 
-loaded_model = decompress_pickle('C:/Users/anish/Documents/Sunbase task/finalmodel.pbz2')
+loaded_model = decompress_pickle('finalmodel.pbz2')
 
 
   
