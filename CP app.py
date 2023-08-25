@@ -9,7 +9,7 @@ import pickle
 import streamlit as st
 import mgzip
 
-with mgzip.open('newmodel.sav', 'rb') as f:
+with mgzip.open('path/newmodel.sav', 'rb') as f:
     loaded_model = pickle.load(f)
 
 
