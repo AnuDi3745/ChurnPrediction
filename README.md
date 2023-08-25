@@ -1,7 +1,8 @@
 # ChurnPrediction
 This is my task for Sunbase Internship.
 
-I have not uploaded the Model File here asa github has restrictions on size. Please Dowload it from here:
+I have not uploaded the Model File here asa github has restrictions on size. 
+Please Download Model File from here:
 https://drive.google.com/file/d/1RCnUDGl5GtER4xNf6mbx1hemfxs8aZE3/view?usp=sharing
 
 Change the path of the Model here:
