@@ -10,6 +10,6 @@ https://github.com/AnuDi3745/ChurnPrediction/blob/2edd96fd2a611b8e32458a700cd7a8
 
 To view the deployed model, just type:
 
-> streamlit run "path\CP app.py"
+> python -m streamlit run "path\CP app.py"
 
-in you python envoirment command prompt.
+in your command prompt.
