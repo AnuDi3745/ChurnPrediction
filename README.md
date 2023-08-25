@@ -4,7 +4,10 @@ This is my task for Sunbase Internship.
 I have not uploaded the Model File here asa github has restrictions on size. Please Dowload it from here:
 https://drive.google.com/file/d/1RCnUDGl5GtER4xNf6mbx1hemfxs8aZE3/view?usp=sharing
 
-To view the deployed model, just type 
+Change the path of the Model here:
+https://github.com/AnuDi3745/ChurnPrediction/blob/2edd96fd2a611b8e32458a700cd7a81089e79e94/CP%20app.py#L12
+
+To view the deployed model, just type:
 
 > streamlit run "path\CP app.py"
 
