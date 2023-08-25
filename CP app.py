@@ -7,11 +7,11 @@ Created on Thu Aug 24 16:11:06 2023
 
 import pickle
 import streamlit as st
+import mgzip
 
+with mgzip.open('newmodel.sav', 'rb') as f:
+    loaded_model = pickle.load(f)
 
-file = open('C:/Users/anish/Documents/Sunbase task/newmodel.sav', 'rb')
-
-loaded_model = pickle.load(file)
 
 
   
